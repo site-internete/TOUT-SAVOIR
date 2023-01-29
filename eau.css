@@ -1,0 +1,22 @@
+.ma {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+}
+
+pre {
+    text-align: center;
+    font-size: x-large;
+}
+
+p {
+    font-size: large;
+}

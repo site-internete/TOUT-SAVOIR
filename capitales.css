@@ -1,0 +1,37 @@
+.ma {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+h2 {
+    color: red;
+}
+
+tr {
+    text-align: center;
+    font-size: x-large;
+}
+
+th {
+    text-align: center;
+    font-size: x-large;
+}
+
+td {
+    text-align: center;
+    font-size: x-large;
+}
+
+tbody {
+    text-align: center;
+    font-size: x-large;
+}
+
+p {
+    font-size: large;
+}

@@ -1,0 +1,14 @@
+h2 {
+    color: black;
+    text-align: center;
+    font-weight: 700;
+    background-color: red;
+}
+
+body {
+    background-color: gainsboro;
+}
+
+p {
+    font-size: large;
+}
