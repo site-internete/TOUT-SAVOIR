@@ -1,0 +1,24 @@
+.ma {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+.ma2 {
+    color: brown;
+    font-size: x-large;
+    font-weight: 900;
+    text-align: center;
+}
+
+.ma1 {
+    text-align: left;
+}
