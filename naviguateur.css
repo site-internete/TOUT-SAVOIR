@@ -1,0 +1,19 @@
+h2 {
+    background-color: red;
+    text-align: center;
+}
+
+.ma {
+    text-align: center;
+    background-color: black;
+}
+
+p {
+    font-size: large;
+}
+
+li {
+    text-align: center;
+    color: lightseagreen;
+    font-size: x-large;
+}

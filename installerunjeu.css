@@ -1,0 +1,20 @@
+ul {
+    color: lightseagreen;
+    text-align: center;
+    font-size: 2em;
+}
+
+h2 {
+    color: black;
+    background-color: red;
+    text-align: center;
+}
+
+p {
+    font-size: large;
+}
+
+.ma {
+    background-color: black;
+    text-align: center;
+}
